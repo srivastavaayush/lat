@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464666864994",
+    "project_id": "learning-aptitute-test",
+    "storage_bucket": "learning-aptitute-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464666864994:android:79b912a0f6d3635627903b",
+        "android_client_info": {
+          "package_name": "com.example.lat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464666864994-2iq593p8u6ceafh1cj7s1l1l0k4cfq0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgm_7HE25vGnAcDyAijxX6TJITAoCmEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464666864994-2iq593p8u6ceafh1cj7s1l1l0k4cfq0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
